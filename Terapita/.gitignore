@@ -1,0 +1,24 @@
+# Dependencias instaladas localmente
+node_modules/
+
+# Compilaciones
+dist/
+.next/
+
+# Archivos temporales de Vite y Cloudflare
+.wrangler/
+.vite/
+
+# Variables privadas
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Registros de errores
+*.log
+npm-debug.log*
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
