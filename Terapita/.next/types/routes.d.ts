@@ -34,6 +34,4 @@ declare namespace VinextRouteTypes {
   }
 }
 
-
-
 export {};

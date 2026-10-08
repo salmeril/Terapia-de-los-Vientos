@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@cloudflare/vite-plugin": "^1.37.1",
+    "@cloudflare/vite-plugin": "^1.2.2",
     "@tailwindcss/postcss": "^4.2.1",
     "@types/node": "^22.20.3",
     "@types/react": "^19.3.0",
@@ -23,9 +23,9 @@
     "react-server-dom-webpack": "^19.2.6",
     "tailwindcss": "^4.2.1",
     "typescript": "^5.9.3",
-    "vinext": "^1.0.0-beta.10",
+    "vinext": "^0.2.1",
     "vite": "^8.0.13",
-    "wrangler": "^4.92.0"
+    "wrangler": "^4.15.2"
   },
   "dependencies": {
     "animejs": "^4.5.0",
